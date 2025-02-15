@@ -1,0 +1,25 @@
+﻿<Window x:Class="contactosxaml.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:contactosxaml"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <WrapPanel x:Name="mainPanel" HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Vertical">
+            <TextBlock FontSize="16"><Run Text="Usuario"/></TextBlock>
+            <TextBox Margin="0,0,0,20"/>
+            <TextBlock FontSize="16"><Run Text="Contraseña"/></TextBlock>
+            <TextBox/>
+            <WrapPanel Margin="0,20,0,0">
+                <DatePicker/>
+                <CheckBox Margin="20,0,0,0" VerticalAlignment="Center" Content="Mostrar"/>
+            </WrapPanel>
+            <WrapPanel Margin="25,20,25,0">
+                <Button Width="50" Content="Enviar"/>
+                <Button Margin="75,0,0,0" Width="50" Content="Cancelar"/>
+            </WrapPanel>
+        </WrapPanel>
+    </Grid>
+</Window>

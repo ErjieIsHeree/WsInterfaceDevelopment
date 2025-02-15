@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erjie_dmjyixu\\Desktop\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsVS2022\\01_AppContactos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B24194D-8D5B-44EE-AC27-03C9D0DF7E61}|AppContactos\\AppContactos.csproj|C:\\Users\\erjie_dmjyixu\\Desktop\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsVS2022\\01_AppContactos\\appcontactos\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B24194D-8D5B-44EE-AC27-03C9D0DF7E61}|AppContactos\\AppContactos.csproj|solutionrelative:appcontactos\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B24194D-8D5B-44EE-AC27-03C9D0DF7E61}|AppContactos\\AppContactos.csproj|c:\\users\\erjie_dmjyixu\\desktop\\dam\\3.desarrollodeinterfaces\\2.ejercicios\\wsvs2022\\01_appcontactos\\appcontactos\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B24194D-8D5B-44EE-AC27-03C9D0DF7E61}|AppContactos\\AppContactos.csproj|solutionrelative:appcontactos\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\erjie_dmjyixu\\Desktop\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsVS2022\\01_AppContactos\\AppContactos\\Menu.cs",
+              "RelativeDocumentMoniker": "AppContactos\\Menu.cs",
+              "ToolTip": "C:\\Users\\erjie_dmjyixu\\Desktop\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsVS2022\\01_AppContactos\\AppContactos\\Menu.cs",
+              "RelativeToolTip": "AppContactos\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:27:49.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\erjie_dmjyixu\\Desktop\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsVS2022\\01_AppContactos\\AppContactos\\Menu.cs",
+              "RelativeDocumentMoniker": "AppContactos\\Menu.cs",
+              "ToolTip": "C:\\Users\\erjie_dmjyixu\\Desktop\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsVS2022\\01_AppContactos\\AppContactos\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AppContactos\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:42:04.971Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

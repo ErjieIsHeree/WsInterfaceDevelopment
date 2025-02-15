@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\03_AppContactoXAML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8A6FC5-45AA-4484-9A8D-26A5C074FFB2}|contactosxaml\\contactosxaml.csproj|c:\\users\\erjie_dmjyixu\\dam\\3.desarrollodeinterfaces\\2.ejercicios\\wsejercicios\\03_appcontactoxaml\\contactosxaml\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2C8A6FC5-45AA-4484-9A8D-26A5C074FFB2}|contactosxaml\\contactosxaml.csproj|solutionrelative:contactosxaml\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8A6FC5-45AA-4484-9A8D-26A5C074FFB2}|contactosxaml\\contactosxaml.csproj|c:\\users\\erjie_dmjyixu\\dam\\3.desarrollodeinterfaces\\2.ejercicios\\wsejercicios\\03_appcontactoxaml\\contactosxaml\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2C8A6FC5-45AA-4484-9A8D-26A5C074FFB2}|contactosxaml\\contactosxaml.csproj|solutionrelative:contactosxaml\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8A6FC5-45AA-4484-9A8D-26A5C074FFB2}|contactosxaml\\contactosxaml.csproj|C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\03_AppContactoXAML\\contactosxaml\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2C8A6FC5-45AA-4484-9A8D-26A5C074FFB2}|contactosxaml\\contactosxaml.csproj|solutionrelative:contactosxaml\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8A6FC5-45AA-4484-9A8D-26A5C074FFB2}|contactosxaml\\contactosxaml.csproj|C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\03_AppContactoXAML\\contactosxaml\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8A6FC5-45AA-4484-9A8D-26A5C074FFB2}|contactosxaml\\contactosxaml.csproj|solutionrelative:contactosxaml\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\03_AppContactoXAML\\contactosxaml\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "contactosxaml\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\03_AppContactoXAML\\contactosxaml\\MainWindow.xaml",
+              "RelativeToolTip": "contactosxaml\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-13T12:46:23.653Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\03_AppContactoXAML\\contactosxaml\\App.xaml",
+              "RelativeDocumentMoniker": "contactosxaml\\App.xaml",
+              "ToolTip": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\03_AppContactoXAML\\contactosxaml\\App.xaml",
+              "RelativeToolTip": "contactosxaml\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-14T09:38:47.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\03_AppContactoXAML\\contactosxaml\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "contactosxaml\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\03_AppContactoXAML\\contactosxaml\\MainWindow.xaml.cs",
+              "RelativeToolTip": "contactosxaml\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T09:34:15.737Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\03_AppContactoXAML\\contactosxaml\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "contactosxaml\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\03_AppContactoXAML\\contactosxaml\\MainWindow.xaml",
+              "RelativeToolTip": "contactosxaml\\MainWindow.xaml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-14T09:34:58.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\03_AppContactoXAML\contactosxaml\obj\Debug\contactosxaml.csproj.AssemblyReference.cache
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\03_AppContactoXAML\contactosxaml\obj\Debug\MainWindow.g.cs
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\03_AppContactoXAML\contactosxaml\obj\Debug\App.g.cs
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\03_AppContactoXAML\contactosxaml\obj\Debug\contactosxaml_MarkupCompile.cache
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\03_AppContactoXAML\contactosxaml\obj\Debug\contactosxaml_MarkupCompile.lref
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\03_AppContactoXAML\contactosxaml\bin\Debug\contactosxaml.exe.config
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\03_AppContactoXAML\contactosxaml\bin\Debug\contactosxaml.exe
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\03_AppContactoXAML\contactosxaml\bin\Debug\contactosxaml.pdb
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\03_AppContactoXAML\contactosxaml\obj\Debug\App.baml
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\03_AppContactoXAML\contactosxaml\obj\Debug\MainWindow.baml
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\03_AppContactoXAML\contactosxaml\obj\Debug\contactosxaml.g.resources
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\03_AppContactoXAML\contactosxaml\obj\Debug\contactosxaml.Properties.Resources.resources
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\03_AppContactoXAML\contactosxaml\obj\Debug\contactosxaml.csproj.GenerateResource.cache
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\03_AppContactoXAML\contactosxaml\obj\Debug\contactosxaml.csproj.CoreCompileInputs.cache
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\03_AppContactoXAML\contactosxaml\obj\Debug\contactosxaml.exe
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\03_AppContactoXAML\contactosxaml\obj\Debug\contactosxaml.pdb

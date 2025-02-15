@@ -1,0 +1,10 @@
+C:\Users\erjie_dmjyixu\source\repos\AppContactos\AppContactos\bin\Debug\AppContactos.exe.config
+C:\Users\erjie_dmjyixu\source\repos\AppContactos\AppContactos\bin\Debug\AppContactos.exe
+C:\Users\erjie_dmjyixu\source\repos\AppContactos\AppContactos\bin\Debug\AppContactos.pdb
+C:\Users\erjie_dmjyixu\source\repos\AppContactos\AppContactos\obj\Debug\AppContactos.csproj.AssemblyReference.cache
+C:\Users\erjie_dmjyixu\source\repos\AppContactos\AppContactos\obj\Debug\AppContactos.Properties.Resources.resources
+C:\Users\erjie_dmjyixu\source\repos\AppContactos\AppContactos\obj\Debug\AppContactos.csproj.GenerateResource.cache
+C:\Users\erjie_dmjyixu\source\repos\AppContactos\AppContactos\obj\Debug\AppContactos.csproj.CoreCompileInputs.cache
+C:\Users\erjie_dmjyixu\source\repos\AppContactos\AppContactos\obj\Debug\AppContactos.exe
+C:\Users\erjie_dmjyixu\source\repos\AppContactos\AppContactos\obj\Debug\AppContactos.pdb
+C:\Users\erjie_dmjyixu\source\repos\AppContactos\AppContactos\obj\Debug\AppContactos.Menu.resources
