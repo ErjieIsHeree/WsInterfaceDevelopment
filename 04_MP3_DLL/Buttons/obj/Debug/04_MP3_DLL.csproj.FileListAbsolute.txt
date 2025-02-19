@@ -1,0 +1,12 @@
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\04_MP3_DLL\Buttons\bin\Debug\Buttons.dll
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\04_MP3_DLL\Buttons\bin\Debug\Buttons.pdb
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\04_MP3_DLL\Buttons\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\04_MP3_DLL\Buttons\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\04_MP3_DLL\Buttons\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\04_MP3_DLL\Buttons\obj\Debug\04_MP3_DLL.csproj.AssemblyReference.cache
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\04_MP3_DLL\Buttons\obj\Debug\Buttons.Properties.Resources.resources
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\04_MP3_DLL\Buttons\obj\Debug\04_MP3_DLL.csproj.GenerateResource.cache
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\04_MP3_DLL\Buttons\obj\Debug\04_MP3_DLL.csproj.CoreCompileInputs.cache
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\04_MP3_DLL\Buttons\obj\Debug\04_MP3_DLL.csproj.Up2Date
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\04_MP3_DLL\Buttons\obj\Debug\Buttons.dll
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\04_MP3_DLL\Buttons\obj\Debug\Buttons.pdb

@@ -1,8 +1,0 @@
-C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\PruebaParaEdu\PruebaParaEdu\bin\Debug\PruebaParaEdu.dll
-C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\PruebaParaEdu\PruebaParaEdu\bin\Debug\PruebaParaEdu.pdb
-C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\PruebaParaEdu\PruebaParaEdu\obj\Debug\PruebaParaEdu.csproj.AssemblyReference.cache
-C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\PruebaParaEdu\PruebaParaEdu\obj\Debug\PruebaParaEdu.csproj.CoreCompileInputs.cache
-C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\PruebaParaEdu\PruebaParaEdu\obj\Debug\PruebaParaEdu.dll
-C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\PruebaParaEdu\PruebaParaEdu\obj\Debug\PruebaParaEdu.pdb
-C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\PruebaParaEdu\PruebaParaEdu\obj\Debug\PruebaParaEdu.Form1.resources
-C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\PruebaParaEdu\PruebaParaEdu\obj\Debug\PruebaParaEdu.csproj.GenerateResource.cache

@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\04_MP3_DLL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\04_MP3_DLL.csproj|c:\\users\\erjie_dmjyixu\\dam\\3.desarrollodeinterfaces\\2.ejercicios\\wsejercicios\\04_mp3_dll\\buttons\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\04_MP3_DLL.csproj|solutionrelative:buttons\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\04_MP3_DLL\\buttons\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|solutionrelative:buttons\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\04_MP3_DLL\\buttons\\controls\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|solutionrelative:buttons\\controls\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\04_MP3_DLL\\buttons\\controls\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|solutionrelative:buttons\\controls\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\04_MP3_DLL\\buttons\\controls\\folderbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|solutionrelative:buttons\\controls\\folderbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\04_MP3_DLL\\buttons\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|solutionrelative:buttons\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\04_MP3_DLL\\buttons\\controls\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|solutionrelative:buttons\\controls\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\04_MP3_DLL\\buttons\\controls\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|solutionrelative:buttons\\controls\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\04_MP3_DLL\\Buttons\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Buttons\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\04_MP3_DLL\\Buttons\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Buttons\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:08:56.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bar.cs",
+              "DocumentMoniker": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\04_MP3_DLL\\Buttons\\Controls\\Bar.cs",
+              "RelativeDocumentMoniker": "Buttons\\Controls\\Bar.cs",
+              "ToolTip": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\04_MP3_DLL\\Buttons\\Controls\\Bar.cs",
+              "RelativeToolTip": "Buttons\\Controls\\Bar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:22:41.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FolderBtn.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\04_MP3_DLL\\Buttons\\Controls\\FolderBtn.cs",
+              "RelativeDocumentMoniker": "Buttons\\Controls\\FolderBtn.cs",
+              "ToolTip": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\Buttons\\Buttons\\Controls\\FolderBtn.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Buttons\\Buttons\\Controls\\FolderBtn.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:39:28.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\04_MP3_DLL\\Buttons\\Controls\\Bar.cs",
+              "RelativeDocumentMoniker": "Buttons\\Controls\\Bar.cs",
+              "ToolTip": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\Buttons\\Buttons\\Controls\\Bar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Buttons\\Buttons\\Controls\\Bar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:38:40.038Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\04_MP3_DLL\\Buttons\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Buttons\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\04_MP3_DLL\\Buttons\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Buttons\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:36:32.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Imagen.cs",
+              "DocumentMoniker": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\04_MP3_DLL\\Buttons\\Controls\\Imagen.cs",
+              "RelativeDocumentMoniker": "Buttons\\Controls\\Imagen.cs",
+              "ToolTip": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\04_MP3_DLL\\Buttons\\Controls\\Imagen.cs",
+              "RelativeToolTip": "Buttons\\Controls\\Imagen.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:16:47.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\04_MP3_DLL\\Buttons\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Buttons\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\04_MP3_DLL\\Buttons\\Properties\\Resources.resx",
+              "RelativeToolTip": "Buttons\\Properties\\Resources.resx",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAH4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-02-19T18:16:55.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Imagen.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\04_MP3_DLL\\Buttons\\Controls\\Imagen.cs",
+              "RelativeDocumentMoniker": "Buttons\\Controls\\Imagen.cs",
+              "ToolTip": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\Buttons\\Buttons\\Controls\\Imagen.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Buttons\\Buttons\\Controls\\Imagen.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:16:46.112Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
