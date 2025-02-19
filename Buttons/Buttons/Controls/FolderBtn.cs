@@ -1,17 +1,18 @@
 ﻿using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Windows.Forms;
+using Buttons.Properties;
 
-class FileBtn : Button
+public class FileBtn : Button
 {
-    private string root = "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\Buttons\\Buttons\\img\\Folder.png";
+    Image image = Resources.Folder;
 
     public FileBtn()
     {
         this.FlatStyle = FlatStyle.Flat;
         this.FlatAppearance.BorderSize = 0;
         this.BackColor = Color.Red;  // Color de fondo rojo
-        this.Image = RedimensionarImagen(Image.FromFile(root), 25, 25);
+        this.Image = RedimensionarImagen(image, 25, 25);
     }
 
     protected override void OnPaint(PaintEventArgs e)

@@ -1,17 +1,18 @@
 ﻿using System.Drawing;
 using System.Drawing.Drawing2D;
+using System.Resources;
 using System.Windows.Forms;
+using Buttons.Properties;
 
-class PreviousBtn : Button
+public class PreviousBtn : Button
 {
-    private string root = "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\Buttons\\Buttons\\img\\Previous.png";
-
+    Image img = Resources.Previous;
     public PreviousBtn()
     {
         this.FlatStyle = FlatStyle.Flat;
         this.FlatAppearance.BorderSize = 0;
         this.BackColor = Color.Red;  // Color de fondo rojo
-        this.Image = RedimensionarImagen(Image.FromFile(root), 40, 40);
+        this.Image = RedimensionarImagen(img, 40, 40);
     }
 
     protected override void OnPaint(PaintEventArgs e)

@@ -1,18 +1,17 @@
 ﻿using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Windows.Forms;
+using Buttons.Properties;
 
-class QuitBtn : Button
+public class QuitBtn : Button
 {
-    //CAMBIA EL ROOT A UNA IMAGEN DE UNA CRUZ
-    private string root = "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\Buttons\\Buttons\\img\\Cross.png";
-
+    Image img = Resources.Close;
     public QuitBtn()
     {
         this.FlatStyle = FlatStyle.Flat;
         this.FlatAppearance.BorderSize = 0;
         this.BackColor = Color.Red;  // Color de fondo rojo
-        this.Image = RedimensionarImagen(Image.FromFile(root), 25, 25);
+        this.Image = RedimensionarImagen(img, 25, 25);
     }
 
     protected override void OnPaint(PaintEventArgs e)

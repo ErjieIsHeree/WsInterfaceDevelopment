@@ -1,10 +1,11 @@
 ﻿using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Windows.Forms;
+using Buttons.Properties;
 
-class Imagen : PictureBox
+public class Imagen : PictureBox
 {
-    Image img = Image.FromFile("C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\Buttons\\Buttons\\img\\MusicIcon.png");
+    Image img = Resources.MusicIcon;
 
     public Imagen()
     {

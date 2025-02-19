@@ -1,7 +1,7 @@
 ﻿using System.Windows.Forms;
 using System.Drawing;
 
-class TitleLbl : Label
+public class TitleLbl : Label
 {
     protected override void OnPaint(PaintEventArgs e)
     {

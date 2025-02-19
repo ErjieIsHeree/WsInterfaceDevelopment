@@ -1,17 +1,18 @@
 ﻿using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Windows.Forms;
+using Buttons.Properties;
 
-class PauseBtn : Button
+public class PauseBtn : Button
 {
-    private string root = "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\Buttons\\Buttons\\img\\Play.png";
+    Image img = Resources.Play;
 
     public PauseBtn()
     {
         this.FlatStyle = FlatStyle.Flat;
         this.FlatAppearance.BorderSize = 0;
         this.BackColor = Color.Red;  // Color de fondo rojo
-        this.Image = RedimensionarImagen(Image.FromFile(root), 40, 40);
+        this.Image = RedimensionarImagen(img, 40, 40);
     }
 
     protected override void OnPaint(PaintEventArgs e)
